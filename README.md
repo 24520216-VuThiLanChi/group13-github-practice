@@ -3,7 +3,12 @@
 # To Do List Application
 
 Ứng dụng quản lý công việc đơn giản được viết bằng Python, hỗ trợ thêm, xóa, tìm kiếm và lưu danh sách công việc thông qua giao diện menu.
+💻 Công nghệ sử dụng
+Ngôn ngữ: Python 3.x
 
+Lưu trữ: File Text/JSON (tùy theo file_handler.py bạn viết)
+
+Quản lý mã nguồn: Git & GitHub (theo mô hình Git Flow/Branching)
 # 📌 Chức năng chính
 Thêm công việc mới
 
