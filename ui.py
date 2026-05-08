@@ -42,3 +42,8 @@ def show_welcome():
     print("   Welcome to To-Do List App!")
     print("   Manage your tasks easily.")
     print("=" * 35)
+
+def show_delete_confirm(title):
+    print(f"\n  ⚠️  Delete task: '{title}' ?")
+    confirm = input("  >> Confirm (y/n): ").strip().lower()
+    return confirm == "y"
