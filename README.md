@@ -101,13 +101,13 @@ to_do_list/
 
 -Branch	Chức năng
 
--feature-ui-readme	Phát triển giao diện người dùng và cập nhật README
+-feature-ui-readme: Phát triển giao diện người dùng và cập nhật README
 
--feature-search-save	Thêm chức năng tìm kiếm và lưu file
+-feature-search-save:	Thêm chức năng tìm kiếm và lưu file
 
--feature-task-manager	Xây dựng module quản lý task
+-feature-task-manager:	Xây dựng module quản lý task
 
--feature-main-menu	Thiết kế menu chính của chương trình
+-feature-main-menu:	Thiết kế menu chính của chương trình
 
 ## ▶️ Cách chạy chương trình
 
