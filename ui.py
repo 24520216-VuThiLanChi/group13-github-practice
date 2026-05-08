@@ -47,3 +47,7 @@ def show_delete_confirm(title):
     print(f"\n  ⚠️  Delete task: '{title}' ?")
     confirm = input("  >> Confirm (y/n): ").strip().lower()
     return confirm == "y"
+
+def show_exit():
+    print("\n  Goodbye! See you later")
+    print("=" * 35)
