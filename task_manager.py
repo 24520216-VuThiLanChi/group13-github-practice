@@ -7,5 +7,3 @@ def add_task(tasks, title):
     tasks.append(task)
     print("Task added successfully!")
 
-
-
