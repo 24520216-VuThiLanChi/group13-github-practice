@@ -1,13 +1,20 @@
 # group13-github-practice
 
-CHUYỆN MA CHÚ 3 DUY | TẬP 611: PHẦN 6: QUỶ NGẢI MA LAI
+#To Do List Application
 
-CHUYỆN MA CHÚ 3 DUY | TẬP 610: PHẦN 5: QUỶ NGẢI MA LAI
+Ứng dụng quản lý công việc đơn giản được viết bằng Python, hỗ trợ thêm, xóa, tìm kiếm và lưu danh sách công việc thông qua giao diện menu.
 
-CHUYỆN MA CHÚ 3 DUY | TẬP 610: PHẦN 4: QUỶ NGẢI MA LAI
+# Chức năng chính
+Thêm công việc mới
 
-CHUYỆN MA CHÚ 3 DUY | TẬP 610: PHẦN 3: QUỶ NGẢI MA LAI
+Hiển thị danh sách công việc
 
-CHUYỆN MA CHÚ 3 DUY | TẬP 610: PHẦN 2: QUỶ NGẢI MA LAI
+Đánh dấu hoàn thành công việc
 
-CHUYỆN MA CHÚ 3 DUY | TẬP 610: PHẦN 1: QUỶ NGẢI MA LAI
+Xóa công việc
+
+Tìm kiếm công việc
+
+Lưu và đọc dữ liệu từ file
+
+Giao diện menu đơn giản trên terminal
