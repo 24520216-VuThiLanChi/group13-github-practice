@@ -40,11 +40,11 @@ to_do_list/
 
 -File chính để chạy chương trình.
 
-+Khởi tạo ứng dụng
+-Khởi tạo ứng dụng
 
-+Điều khiển luồng hoạt động chính
+-Điều khiển luồng hoạt động chính
 
-+Kết nối các module:
+-Kết nối các module:
   
   +giao diện (ui.py)
   
@@ -56,7 +56,7 @@ to_do_list/
 
 -Quản lý toàn bộ logic của danh sách công việc.
 
-+Bao gồm các chức năng:
+-Bao gồm các chức năng:
 
 +Thêm task
 
@@ -70,40 +70,42 @@ to_do_list/
 
 ## file_handler.py
 
-Xử lý đọc và ghi dữ liệu.
+-Xử lý đọc và ghi dữ liệu.
 
-Chức năng:
+-Chức năng:
 
-Lưu danh sách công việc vào file
-Đọc dữ liệu từ file khi khởi động chương trình
-Hỗ trợ lưu trữ dữ liệu lâu dài
-ui.py
+-Lưu danh sách công việc vào file
 
-Xử lý giao diện người dùng trên terminal.
+-Đọc dữ liệu từ file khi khởi động chương trình
 
-Bao gồm:
+-Hỗ trợ lưu trữ dữ liệu lâu dài
 
-Hiển thị menu
-Nhận input từ người dùng
-Hiển thị thông báo và danh sách công việc
-🌿 Các nhánh Git
-Branch	Chức năng
-feature-ui-readme	Phát triển giao diện người dùng và cập nhật README
-feature-search-save	Thêm chức năng tìm kiếm và lưu file
-feature-task-manager	Xây dựng module quản lý task
-feature-main-menu	Thiết kế menu chính của chương trình
-▶️ Cách chạy chương trình
-1. Clone repository
-git clone <repository-url>
-2. Di chuyển vào thư mục project
-cd to_do_list
-3. Chạy chương trình
-python main.py
-🛠️ Công nghệ sử dụng
-Python 3
-Git & GitHub
-👨‍💻 Thành viên phát triển
-Nhóm phát triển To Do List Application
-📄 License
+## ui.py
 
-Project được sử dụng cho mục đích học tập và thực hành Git/GitHub.
+-Xử lý giao diện người dùng trên terminal.
+
+-Bao gồm:
+
+-Hiển thị menu
+
+-Nhận input từ người dùng
+
+-Hiển thị thông báo và danh sách công việc
+
+## 🌿 Các nhánh Git
+
+-Branch	Chức năng
+
+-feature-ui-readme	Phát triển giao diện người dùng và cập nhật README
+
+-feature-search-save	Thêm chức năng tìm kiếm và lưu file
+
+-feature-task-manager	Xây dựng module quản lý task
+
+-feature-main-menu	Thiết kế menu chính của chương trình
+
+## ▶️ Cách chạy chương trình
+
+## 📄 License
+
+-Project được sử dụng cho mục đích học tập và thực hành Git/GitHub.
