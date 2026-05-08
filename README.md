@@ -18,3 +18,19 @@ Tìm kiếm công việc
 Lưu và đọc dữ liệu từ file
 
 Giao diện menu đơn giản trên terminal
+
+# Cấu trúc project
+
+to_do_list/
+
+│
+
+├── main.py
+
+├── task_manager.py
+
+├── file_handler.py
+
+├── ui.py
+
+└── README.md
