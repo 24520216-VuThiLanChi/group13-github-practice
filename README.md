@@ -95,7 +95,7 @@ to_do_list/
 
 -Nhận input từ người dùng
 
--Hiển thị thông báo và danh sách công việc
+-In thông báo lỗi hoặc thành công 
 
 ## 🌿 Các nhánh Git
 
