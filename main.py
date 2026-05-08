@@ -12,10 +12,15 @@ from ui import show_menu
 tasks = load_tasks()
 
 while True:
+    
     show_menu()
     choice = input("Enter your choice: ")
+     if choice == "1":
+   title = input("Enter task name: ")
+   add_task(tasks, title)
+   save_tasks(tasks)
 
-    show_menu()
-    choice = input("Enter your choice: ")
+   elif choice == "2":
+   view_tasks(tasks)
 
   
