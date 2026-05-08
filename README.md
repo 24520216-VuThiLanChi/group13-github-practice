@@ -9,7 +9,9 @@ Ngôn ngữ: Python 3.x
 Lưu trữ: File Text/JSON (tùy theo file_handler.py bạn viết)
 
 Quản lý mã nguồn: Git & GitHub (theo mô hình Git Flow/Branching)
+
 # 📌 Chức năng chính
+
 Thêm công việc mới
 
 Hiển thị danh sách công việc
@@ -41,6 +43,7 @@ to_do_list/
 └── README.md
 
 # 📖 Mô tả các file
+
 ## main.py
 
 -File chính để chạy chương trình.
@@ -50,13 +53,13 @@ to_do_list/
 -Điều khiển luồng hoạt động chính
 
 -Kết nối các module:
-  
-  +giao diện (ui.py)
-  
-  +quản lý công việc (task_manager.py)
-  
-  +lưu file (file_handler.py)
-  
+
++giao diện (ui.py)
+
++quản lý công việc (task_manager.py)
+
++lưu file (file_handler.py)
+
 ## task_manager.py
 
 -Quản lý toàn bộ logic của danh sách công việc.
@@ -95,19 +98,19 @@ to_do_list/
 
 -Nhận input từ người dùng
 
--Hiển thị thông báo và danh sách công việc
+-In thông báo lỗi hoặc thành công
 
 ## 🌿 Các nhánh Git
 
--Branch	Chức năng
+-Branch Chức năng
 
--feature-ui-readme	Phát triển giao diện người dùng và cập nhật README
+-feature-ui-readme Phát triển giao diện người dùng và cập nhật README
 
--feature-search-save	Thêm chức năng tìm kiếm và lưu file
+-feature-search-save Thêm chức năng tìm kiếm và lưu file
 
--feature-task-manager	Xây dựng module quản lý task
+-feature-task-manager Xây dựng module quản lý task
 
--feature-main-menu	Thiết kế menu chính của chương trình
+-feature-main-menu Thiết kế menu chính của chương trình
 
 ## ▶️ Cách chạy chương trình
 
