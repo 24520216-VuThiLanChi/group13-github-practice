@@ -1,1 +1,1 @@
-"""Hello Các Bạn"""
+print("Hello, World!")
