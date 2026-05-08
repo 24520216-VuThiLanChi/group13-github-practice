@@ -41,3 +41,9 @@ def search_task(tasks, keyword):
     if not found:
         print("No matching task found.")
 
+def mark_completed(tasks, index):
+    if 0 < index <= len(tasks):
+        tasks[index - 1]["done"] = True
+        print("Task marked as completed!")
+    else:
+        print("Invalid task number!")
